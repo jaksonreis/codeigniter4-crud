@@ -1,0 +1,24 @@
+CRITICAL - 2023-01-13 13:55:28 --> Too few arguments to function App\Controllers\Helloworld::hellopersonalizado(), 0 passed in /var/www/html/ci4app/vendor/codeigniter4/framework/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/Helloworld.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Helloworld->hellopersonalizado()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-13 13:55:29 --> Too few arguments to function App\Controllers\Helloworld::hellopersonalizado(), 0 passed in /var/www/html/ci4app/vendor/codeigniter4/framework/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/Helloworld.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Helloworld->hellopersonalizado()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-13 13:56:21 --> Too few arguments to function App\Controllers\Helloworld::hellopersonalizado(), 0 passed in /var/www/html/ci4app/vendor/codeigniter4/framework/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/Helloworld.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Helloworld->hellopersonalizado()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-13 14:02:34 --> Too few arguments to function App\Controllers\Helloworld::hellopersonalizado(), 1 passed in /var/www/html/ci4app/vendor/codeigniter4/framework/system/CodeIgniter.php on line 934 and exactly 2 expected
+in APPPATH/Controllers/Helloworld.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Helloworld->hellopersonalizado()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
